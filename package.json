@@ -1,0 +1,12 @@
+{
+  "name": "learn-tsc",
+  "version": "1.0.0",
+  "description": "Leraning Typescript",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server",
+    "watch": "tsc -watch"
+  },
+  "author": "Oka R. Abdillah",
+  "license": "ISC"
+}
